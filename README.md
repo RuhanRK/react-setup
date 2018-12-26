@@ -1,6 +1,6 @@
-This is a simple setup for **React** without **create-react-app**
+# This is a simple setup for **React** without **create-react-app**
 
-for getting start you have to download this file or clone it.
+For getting start you have to download this file or clone it.
 
 Now you have to create two folder like this
 
