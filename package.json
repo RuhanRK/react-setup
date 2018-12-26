@@ -1,13 +1,13 @@
 {
   "name": "test-2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create React Project",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ruhan",
   "license": "ISC",
   "dependencies": {
     "react": "^16.7.0",
